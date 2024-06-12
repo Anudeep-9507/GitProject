@@ -1,3 +1,3 @@
 GitProject <br>
-This is a git demo project
+This is a first git demo project
 
